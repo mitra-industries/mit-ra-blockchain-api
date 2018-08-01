@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "GHZUlps+OKv051x82sSh3E48Jz0=",
+			"path": "github.com/OpenZeppelin/zeppelin-solidity",
+			"revision": "76fe1548aee183dfcc395364f0745fe153a56141",
+			"revisionTime": "2018-04-23T23:36:47Z",
+			"tree": true
+		}
+	],
+	"rootPath": "mit-ra-blockchain-api"
+}
